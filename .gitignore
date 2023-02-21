@@ -19,7 +19,8 @@ target/
 *.iml
 *.ipr
 ### Hide passwords ###
-*.properties
+application.properties
+.properties
 ### Gotta keep that PW hidden ###
 *.properties
 ### NetBeans ###
