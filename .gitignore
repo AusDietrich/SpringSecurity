@@ -18,7 +18,8 @@ target/
 *.iws
 *.iml
 *.ipr
-
+### Gotta keep that PW hidden ###
+*.properties
 ### NetBeans ###
 /nbproject/private/
 /nbbuild/
